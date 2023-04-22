@@ -1,0 +1,8 @@
+﻿C  = 77F  4/17/2023 3:00:04 AM
+F  = 7.22222222222222C  4/17/2023 3:00:24 AM
+System.Windows.Forms.TextBox, Text: C  = System.Windows.Forms.TextBox, Text: 88F  4/17/2023 3:01:06 AM
+C  = F  4/17/2023 3:01:43 AM
+24C  = 56F  4/17/2023 3:03:18 AM
+50C  = 82F  4/17/2023 3:04:45 AM
+50C  = 82F  4/17/2023 3:09:43 AM
+0C  = 32F  4/17/2023 5:42:57 AM

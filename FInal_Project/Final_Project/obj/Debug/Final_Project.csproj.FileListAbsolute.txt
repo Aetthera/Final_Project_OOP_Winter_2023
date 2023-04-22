@@ -1,0 +1,17 @@
+\\Mac\Home\Desktop\OOP\Final_Project\Final_Project\bin\Debug\Final_Project.exe.config
+\\Mac\Home\Desktop\OOP\Final_Project\Final_Project\bin\Debug\Final_Project.exe
+\\Mac\Home\Desktop\OOP\Final_Project\Final_Project\bin\Debug\Final_Project.pdb
+\\Mac\Home\Desktop\OOP\Final_Project\Final_Project\obj\Debug\Final_Project.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\OOP\Final_Project\Final_Project\obj\Debug\Final_Project.csproj.SuggestedBindingRedirects.cache
+\\Mac\Home\Desktop\OOP\Final_Project\Final_Project\obj\Debug\Final_Project.frmDashboard.resources
+\\Mac\Home\Desktop\OOP\Final_Project\Final_Project\obj\Debug\Final_Project.Lotto649Form.resources
+\\Mac\Home\Desktop\OOP\Final_Project\Final_Project\obj\Debug\Final_Project.LottoMaxForm.resources
+\\Mac\Home\Desktop\OOP\Final_Project\Final_Project\obj\Debug\Final_Project.Properties.Resources.resources
+\\Mac\Home\Desktop\OOP\Final_Project\Final_Project\obj\Debug\Final_Project.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\OOP\Final_Project\Final_Project\obj\Debug\Final_Project.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\OOP\Final_Project\Final_Project\obj\Debug\Final_Project.exe
+\\Mac\Home\Desktop\OOP\Final_Project\Final_Project\obj\Debug\Final_Project.pdb
+\\Mac\Home\Desktop\OOP\Final_Project\Final_Project\obj\Debug\Final_Project.MoneyExForm.resources
+\\Mac\Home\Desktop\OOP\Final_Project\Final_Project\obj\Debug\Final_Project.CalculatorForm.resources
+\\Mac\Home\Desktop\OOP\Final_Project\Final_Project\obj\Debug\Final_Project.TempAppForm.resources
+\\Mac\Home\Desktop\OOP\Final_Project\Final_Project\obj\Debug\Final_Project.IPForm.resources
